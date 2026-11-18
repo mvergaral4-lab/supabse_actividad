@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Alumnos UTEQ"
+            android:text="Alumnos UTEQ v2"
             android:textSize="24sp"
             android:textStyle="bold" />
         <Button
